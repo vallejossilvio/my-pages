@@ -33,3 +33,4 @@ theme: minima
 ```
 
 For more, visit [Alta3 Research](https://alta3.com).
+[Return Home](https://vallejossilvio.github.io/my-pages/)
